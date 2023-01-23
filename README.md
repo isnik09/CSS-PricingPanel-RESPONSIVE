@@ -9,6 +9,9 @@
 Me revising my HTML and CSS ('cause I'm forgetting some stuff...)
 This is a mobile first responsive price-card thingy...
 
+## TEST IT HERE
+https://isnik09.github.io/CSS-PricingPanel-RESPONSIVE/
+
 ## Screenshots
 ![App Screenshot](https://raw.githubusercontent.com/isnik09/CSS-PricingPanel-RESPONSIVE/master/full.png)
 ![App Screenshot](https://raw.githubusercontent.com/isnik09/CSS-PricingPanel-RESPONSIVE/master/phone.png)
